@@ -1,6 +1,8 @@
-## Phantom for Jekyll
+## 자기소개
 
-A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
+1996년 출생, 사우초 졸업 - 대송중 졸업 - 대화고 졸업 
+제주대학교 컴퓨터공학전공
+
 
 ![preview](preview.jpg)
 
